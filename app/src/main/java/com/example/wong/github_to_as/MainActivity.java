@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //新增了一行
         //增加第二行
+        //制造冲突
     }
 }
